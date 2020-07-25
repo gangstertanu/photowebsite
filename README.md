@@ -4,4 +4,4 @@
 Photography landing page with JS
 
 
-Demo (tanuphotosite.netlify.app/)
+Demo (https://tanuphotosite.netlify.app/)
